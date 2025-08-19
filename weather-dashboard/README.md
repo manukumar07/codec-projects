@@ -14,7 +14,8 @@ Features current weather, 6-day forecast, unit conversion, animated weather icon
 
 ---
 
-## **Tech Stack**
+## 🛠️ Tech Stack
+
 - **Frontend:** React.js
 - **Styling:** Tailwind CSS
 - **API:** OpenWeatherMap API
