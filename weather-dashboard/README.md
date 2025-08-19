@@ -26,6 +26,8 @@ Features current weather, 6-day forecast, unit conversion, animated weather icon
 
 ## **Getting Started**
 
+**Clone the repository** 🐙
+
 ```bash
 1. git clone https://github.com/yourusername/weather-dashboard.git
    cd weather-dashboard
