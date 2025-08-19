@@ -1,12 +1,42 @@
-# React + Vite
+# 📝⭐ TaskFlow - Task Management App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> TaskFlow is a **frontend-only, feature-rich task management application** built with **React** and **Tailwind CSS**. 
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- 📝 **Add Tasks**: Input a new task with title and description.
+- ✏️ **Edit Tasks**: Modify task details inline or via modal.
+- 🗑️ **Delete Tasks**: Remove tasks individually.
+- ✅ **Mark Complete / Incomplete**: Checkbox toggle; completed tasks show strikethrough.
+- 🎨 **Task Priority / Labels**: High / Medium / Low priority badges.
+- 📅 **Due Date / Reminder**: Set optional due date for tasks.
+- ⭐ **Favorite / Star Tasks**: Highlight important tasks.
+- 🔍 **Search / Filter by Keyword**: Quickly find tasks with search input.
+- 🗂️ **Filter Tasks**: Tabs for All / Active / Completed.
+- 🧹 **Clear Completed Tasks**: Remove all completed tasks with one click.
+- 📊 **Task Count Summary**: Shows total, completed, and remaining tasks.
+- 📱 **Responsive Design**: Mobile, tablet, and desktop support.
+- 🖼️ **View Modes**: Table / Grid toggle (optional).
+- 💾 **Persist Tasks**: Data saved in localStorage across page reloads.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+-  **React 18**
+-  **Tailwind CSS**
+-  **Lucide Icons**
+-  **LocalStorage** for persistence
+-  **React Router DOM** for routing
+
+---
+
+## 📥 Installation
+
+1. **Clone the repository** 🐙
+
+```bash
+git clone https://github.com/yourusername/taskflow.git
+cd taskflow
