@@ -35,8 +35,18 @@
 
 ## 📥 Installation
 
-1. **Clone the repository** 🐙
+ **Clone the repository** 🐙
 
 ```bash
-git clone https://github.com/yourusername/taskflow.git
-cd taskflow
+1. git clone https://github.com/yourusername/taskflow.git
+  cd taskflow
+
+ 2. Install dependencies:
+   npm install
+   
+3. Run the development server:
+   npm run dev
+   ```
+
+
+> Built with ❤️ Manu Kumar Pal
