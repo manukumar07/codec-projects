@@ -24,7 +24,6 @@ Features current weather, 6-day forecast, unit conversion, animated weather icon
 
 ---
 
-
 ## **Getting Started**
 
 ```bash
