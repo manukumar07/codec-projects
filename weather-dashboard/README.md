@@ -4,9 +4,8 @@
 Features current weather, 6-day forecast, unit conversion, animated weather icons.
 ---
 
-## **Features**
+## ✨ Features
 
-### Core Features
 - Current weather display: temperature, condition, humidity, wind speed, feels-like
 - Search by city with live results
 - 6-day forecast with min/max temps and weather icons
